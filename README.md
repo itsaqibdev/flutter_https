@@ -467,6 +467,10 @@ try {
 | Instance Clients | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Error Handling | ✅ | ✅ | ✅ | ✅ | ✅ |
 
+## 👨‍💻 Author
+
+**Saqib** - [itsaqibdev.me](https://itsaqibdev.me) - [Fiverr](https://www.fiverr.com/itsaqibdev)
+
 ## 🏗️ Built With
 
 - Inspired by and built on top of the [http](https://pub.dev/packages/http) package

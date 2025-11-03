@@ -1,9 +1,12 @@
 name: flutter_https
 description: "A powerful and easy-to-use HTTP client for Dart and Flutter with advanced features like interceptors, retry handling, logging, file downloading, and temporary file management."
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/itsaqibdev/flutter_https
 repository: https://github.com/itsaqibdev/flutter_https
 issue_tracker: https://github.com/itsaqibdev/flutter_https/issues
+documentation: https://github.com/itsaqibdev/flutter_https#readme
+funding:
+  - https://www.fiverr.com/itsaqibdev
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
