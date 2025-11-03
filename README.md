@@ -25,7 +25,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  flutter_https: ^0.0.1
+  flutter_https: ^0.0.2
 ```
 
 Then run:
